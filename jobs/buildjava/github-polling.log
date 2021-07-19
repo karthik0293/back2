@@ -1,0 +1,13 @@
+Started on Jul 19, 2021, 1:04:23 PM
+Started by event from 140.82.115.154 ⇒ http://13.233.246.92:8080/github-webhook/ on Mon Jul 19 13:04:22 UTC 2021
+Using strategy: Default
+[poll] Last Built Revision: Revision 058f330cb84265cd3a8a605d2e2ec92acc7896a2 (refs/remotes/origin/master)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git ls-remote -h -- https://github.com/karthik0293/javahello.git # timeout=10
+Found 1 remote heads on https://github.com/karthik0293/javahello.git
+[poll] Latest remote head revision on refs/heads/master is: a3814247f7ff4bfe458ef0f22623f78fd36d04f6
+Done. Took 0.48 sec
+Changes found
